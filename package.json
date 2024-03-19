@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "license": "MIT",
   "type": "module",
+  "repository": "github:marmelab/data-generator-retail-api",
+  "homepage": "https://github.com/marmelab/data-generator-retail-api",
   "dependencies": {
     "cors": "^2.8.5",
     "data-generator-retail": "^4.8.0",
