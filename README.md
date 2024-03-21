@@ -14,7 +14,7 @@ npm install
 npm start
 ```
 
-The data will be available at `http://localhost:3000`, and exposed in HTTPS via localtunnel (see URL in the console). You will need to visit the URL via a web browser once before using the API. 
+The data will be available at `http://localhost:3000`.
 
 Available endpoints:
 
